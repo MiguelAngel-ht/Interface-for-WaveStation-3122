@@ -1,0 +1,9 @@
+EXPORTS
+    _ZN8DllClassC1Ev @1
+    _ZN8DllClassC2Ev @2
+    _ZN8DllClassD0Ev @3
+    _ZN8DllClassD1Ev @4
+    _ZN8DllClassD2Ev @5
+    _ZTI8DllClass @6 DATA
+    _ZTV8DllClass @7 DATA
+    values @8
